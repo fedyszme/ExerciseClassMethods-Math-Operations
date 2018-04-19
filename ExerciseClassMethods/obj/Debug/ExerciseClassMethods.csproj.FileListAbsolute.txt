@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\bin\Debug\ExerciseClassMethods.exe.config
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\bin\Debug\ExerciseClassMethods.exe
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\bin\Debug\ExerciseClassMethods.pdb
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\obj\Debug\ExerciseClassMethods.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\obj\Debug\ExerciseClassMethods.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\obj\Debug\ExerciseClassMethods.exe
+c:\users\admin\source\repos\ExerciseClassMethods\ExerciseClassMethods\obj\Debug\ExerciseClassMethods.pdb
